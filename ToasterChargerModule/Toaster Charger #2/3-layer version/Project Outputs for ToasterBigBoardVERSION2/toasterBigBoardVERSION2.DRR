@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: toasterBigBoardVERSION2.PcbDoc   3/13/2015  12:11:08 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : toasterBigBoardVERSION2.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        27.6mil (0.70104mm)      Round          2                0.20 Inch (5.08 mm)
+T2        28mil (0.7112mm)         Round          6                11.96 Inch (303.88 mm)
+T3        55mil (1.397mm)          Round          7                2.88 Inch (73.03 mm)
+T4        63mil (1.6002mm)         Round          3                0.46 Inch (11.57 mm)
+T5        87mil (2.2098mm)         Round          1                0.00 Inch (0.00 mm)
+T6        125mil (3.175mm)         Round          24               37.01 Inch (940.16 mm)
+---------------------------------------------------------------------------
+Totals                                            43               52.51 Inch (1333.72 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

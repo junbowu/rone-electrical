@@ -1,9 +1,0 @@
-Added Component: Designator=C2(CAPC2012L)
-Added Component: Designator=C3(CAPC2012L)
-Added Pin To Net: NetName=GND Pin=C2-1
-Added Pin To Net: NetName=Net_2 Pin=C2-2
-Added Pin To Net: NetName=GND Pin=C3-1
-Added Pin To Net: NetName=Net_6 Pin=C3-2
-Added Member To Class: ClassName=BigBoardVERSION2 Member=Component C2 CIN
-Added Member To Class: ClassName=BigBoardVERSION2 Member=Component C3 COUT
-Added Member To Class: ClassName=BigBoardVERSION2 Member=Component  PTN78020WAH

@@ -1,0 +1,26 @@
+Change Component Designator: OldDesignator=C7 47uF NewDesignator=C1 47uF
+Added Component: Designator=Rset(J1-0603)
+Added Component: Designator=(PTN78020WAH)
+Added Pin To Net: NetName=GND Pin=-1
+Added Pin To Net: NetName=GND Pin=-7
+Added Pin To Net: NetName=6.25VOUT_2 Pin=J1-1
+Added Pin To Net: NetName=6.25VOUT_2 Pin=J1-2
+Added Pin To Net: NetName=6.25VOUT_2 Pin=J2-1
+Added Pin To Net: NetName=6.25VOUT_2 Pin=J3-1
+Added Pin To Net: NetName=6.25VOUT_2 Pin=J3-2
+Added Pin To Net: NetName=GND Pin=Rset-2
+Change Net Name : Old Net Name=6.25VOUT_2 New Net Name=NetJ1_1
+Added Pin To Net: NetName=Net_2 Pin=-2
+Added Pin To Net: NetName=Net_2 Pin=F1-2
+Added Net: Name=Net_2
+Added Pin To Net: NetName=Net_4 Pin=-4
+Added Pin To Net: NetName=Net_4 Pin=Rset-1
+Added Net: Name=Net_4
+Added Pin To Net: NetName=Net_6 Pin=-6
+Added Pin To Net: NetName=Net_6 Pin=J2-2
+Added Pin To Net: NetName=Net_6 Pin=R2-1
+Added Net: Name=Net_6
+Change Class Name : Old Net Name=BigBoard New Net Name=BigBoardVERSION2
+Added Member To Class: ClassName=BigBoardVERSION2 Member=Component Rset Resistor
+Added Member To Class: ClassName=BigBoardVERSION2 Member=Component  PTN78020WAH
+Added Room: Name=BigBoardVERSION2

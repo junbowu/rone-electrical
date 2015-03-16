@@ -1,0 +1,212 @@
+*************************************************************
+FileName = toasterBigBoardVERSION2.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : toasterBigBoardVERSION2.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : GND Plane
+      File : toasterBigBoardVERSION2.GP1
+
+    Adding Layer      : GND Plane
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : toasterBigBoardVERSION2.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : toasterBigBoardVERSION2.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : toasterBigBoardVERSION2.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : toasterBigBoardVERSION2.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D17
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : toasterBigBoardVERSION2.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : toasterBigBoardVERSION2.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : toasterBigBoardVERSION2.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : toasterBigBoardVERSION2.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : toasterBigBoardVERSION2.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : toasterBigBoardVERSION2.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D43
+*************************************************************
+
